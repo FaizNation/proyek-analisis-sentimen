@@ -7,7 +7,7 @@ result, continuation_token = reviews(
     lang='id', 
     country= 'id',
     sort=Sort.MOST_RELEVANT,
-    count=10000,
+    count=12000,
     filter_score_with= None
 )
 

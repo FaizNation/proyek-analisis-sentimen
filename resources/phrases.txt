@@ -1,0 +1,8 @@
+# format: kata1 kata2,bobot (frasa dua kata yang dinilai sebagai satu kesatuan)
+tidak bisa,-3
+tidak dapat,-3
+tidak ada,-1
+tidak muncul,-2
+tidak masuk,-2
+tidak terima,-2
+tidak respon,-2
